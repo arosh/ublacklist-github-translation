@@ -1,0 +1,20 @@
+- domain: 'bleepcoder.com'
+  evidence: https://bleepcoder.com/ja/metabase/419604485/time-is-showing-24-00-instead-of-00-00
+  original: https://github.com/metabase/metabase/issues/9538
+  note:
+- domain: 'githubja.com'
+  evidence: https://githubja.com/tqdm/tqdm
+  original: https://github.com/tqdm/tqdm
+  note:
+- domain: 'www.gitmemory.com'
+  evidence: https://www.gitmemory.com/issue/dbeaver/dbeaver/232/528912919
+  original: https://github.com/dbeaver/dbeaver/issues/232
+  note:
+- domain: 'giters.com'
+  evidence: https://giters.com/arosh/ublacklist-stackoverflow-translation/issues/51
+  original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51
+  note:
+- domain: 'githubmemory.com'
+  evidence: https://githubmemory.com/repo/TrustedWebPromotionCouncil/Documents/issues/6
+  original: https://github.com/TrustedWebPromotionCouncil/Documents/issues/6
+  note:
