@@ -12,6 +12,12 @@ Google Chrome や Firefox などで利用可能なブラウザ拡張である [u
 
 [arosh/ublacklist-stackoverflow-translation の README](https://github.com/arosh/ublacklist-stackoverflow-translation) を参照してください。
 
+フィルタを購読するための URL として以下を利用してください。
+
+```
+https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt
+```
+
 ## 謝辞
 
 素晴らしい拡張機能である [uBlacklist](https://github.com/iorate/uBlacklist) の作者の [@iorate](https://github.com/iorate) 氏に感謝いたします。
@@ -31,6 +37,12 @@ The filter provided at this repository is compatible with [uBlacklist](https://g
 ## Usage
 
 See [README at arosh/ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation).
+
+Use the following URL to subscribe.
+
+```
+https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt
+```
 
 ## Acknowledgements
 
