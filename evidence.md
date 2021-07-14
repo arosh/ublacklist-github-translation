@@ -6,4 +6,4 @@
 | `githubja.com` | https://githubja.com/tqdm/tqdm | https://github.com/tqdm/tqdm |  |
 | `www.gitmemory.com` | https://www.gitmemory.com/issue/dbeaver/dbeaver/232/528912919 | https://github.com/dbeaver/dbeaver/issues/232 |  |
 | `giters.com` | https://giters.com/arosh/ublacklist-stackoverflow-translation/issues/51 | https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51 |  |
-| `githubmemory.com` | https://githubmemory.com/repo/TrustedWebPromotionCouncil/Documents/issues/6 | https://github.com/TrustedWebPromotionCouncil/Documents/issues/6 |  |
+| `githubmemory.com` | https://githubmemory.com/repo/arosh/ublacklist-stackoverflow-translation/issues/51 | https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51 |  |
