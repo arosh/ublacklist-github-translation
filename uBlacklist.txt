@@ -1,5 +1,5 @@
 *://bleepcoder.com/*
 *://githubja.com/*
-*://www.gitmemory.com/*
+*://*.gitmemory.com/*
 *://giters.com/*
 *://githubmemory.com/*
