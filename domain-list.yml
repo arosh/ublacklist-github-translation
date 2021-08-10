@@ -6,7 +6,7 @@
   evidence: https://githubja.com/tqdm/tqdm
   original: https://github.com/tqdm/tqdm
   note:
-- domain: 'www.gitmemory.com'
+- domain: '*.gitmemory.com'
   evidence: https://www.gitmemory.com/issue/dbeaver/dbeaver/232/528912919
   original: https://github.com/dbeaver/dbeaver/issues/232
   note:
