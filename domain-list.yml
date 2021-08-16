@@ -18,3 +18,7 @@
   evidence: https://githubmemory.com/repo/arosh/ublacklist-stackoverflow-translation/issues/51
   original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51
   note:
+- domain: 'codegrepper.com'
+  evidence: https://www.codegrepper.com/code-examples/javascript/getfieldvalue+antd
+  original: https://github.com/ant-design/ant-design/issues/21829
+  note:
