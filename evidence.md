@@ -7,3 +7,4 @@
 | `*.gitmemory.com` | https://www.gitmemory.com/issue/dbeaver/dbeaver/232/528912919 | https://github.com/dbeaver/dbeaver/issues/232 |  |
 | `giters.com` | https://giters.com/arosh/ublacklist-stackoverflow-translation/issues/51 | https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51 |  |
 | `githubmemory.com` | https://githubmemory.com/repo/arosh/ublacklist-stackoverflow-translation/issues/51 | https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51 |  |
+| `*.wenyanet.com` | https://www.wenyanet.com/opensource/ja/5ff3071877c41a72a418b148.html | https://github.com/BBE78/cypress-sonarqube-reporter |  |
