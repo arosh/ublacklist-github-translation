@@ -4,3 +4,4 @@
 *://giters.com/*
 *://githubmemory.com/*
 *://*.wenyanet.com/*
+*://issueexplorer.com/*
