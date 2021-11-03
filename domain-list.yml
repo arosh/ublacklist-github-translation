@@ -26,3 +26,7 @@
   evidence: https://issueexplorer.com/issue/microsoft/PowerToys/13202
   original: https://github.com/microsoft/PowerToys/issues/13202
   note:
+- domain: 'opensourcelibs.com'
+  evidence: https://opensourcelibs.com/lib/pandoc
+  original: https://github.com/pandoc/pandoc
+  note:
