@@ -6,3 +6,4 @@
 *://*.wenyanet.com/*
 *://issueexplorer.com/*
 *://opensourcelibs.com/*
+*://awesomeopensource.com/*
