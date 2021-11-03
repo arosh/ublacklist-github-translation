@@ -5,3 +5,4 @@
 *://githubmemory.com/*
 *://*.wenyanet.com/*
 *://issueexplorer.com/*
+*://opensourcelibs.com/*
