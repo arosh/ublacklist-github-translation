@@ -7,3 +7,4 @@
 *://issueexplorer.com/*
 *://opensourcelibs.com/*
 *://awesomeopensource.com/*
+*://findbestopensource.com/*

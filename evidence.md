@@ -11,3 +11,4 @@
 | `issueexplorer.com` | https://issueexplorer.com/issue/microsoft/PowerToys/13202 | https://github.com/microsoft/PowerToys/issues/13202 |  |
 | `opensourcelibs.com` | https://opensourcelibs.com/lib/pandoc | https://github.com/pandoc/pandoc |  |
 | `awesomeopensource.com` | https://awesomeopensource.com/project/jgm/pandoc | https://github.com/pandoc/pandoc |  |
+| `findbestopensource.com` | https://www.findbestopensource.com/product/robertoaloi-erlang-web | https://github.com/robertoaloi/erlang-web |  |
