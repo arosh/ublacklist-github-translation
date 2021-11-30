@@ -12,3 +12,4 @@
 | `opensourcelibs.com` | https://opensourcelibs.com/lib/pandoc | https://github.com/pandoc/pandoc |  |
 | `awesomeopensource.com` | https://awesomeopensource.com/project/jgm/pandoc | https://github.com/pandoc/pandoc |  |
 | `findbestopensource.com` | https://www.findbestopensource.com/product/robertoaloi-erlang-web | https://github.com/robertoaloi/erlang-web |  |
+| `githubhelp.com` | https://githubhelp.com/github/dmca | https://github.com/github/dmca |  |

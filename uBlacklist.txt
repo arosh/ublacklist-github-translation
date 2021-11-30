@@ -8,3 +8,4 @@
 *://opensourcelibs.com/*
 *://awesomeopensource.com/*
 *://findbestopensource.com/*
+*://githubhelp.com/*
