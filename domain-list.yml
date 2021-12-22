@@ -42,3 +42,7 @@
   evidence: https://githubhelp.com/github/dmca
   original: https://github.com/github/dmca
   note:
+- domain: 'golangrepo.com'
+  evidence: https://golangrepo.com/repo/uber-go-zap-go-logging-monitoring
+  original: https://github.com/uber-go/zap
+  note:
