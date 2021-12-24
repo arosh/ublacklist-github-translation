@@ -13,3 +13,4 @@
 | `awesomeopensource.com` | https://awesomeopensource.com/project/jgm/pandoc | https://github.com/pandoc/pandoc |  |
 | `findbestopensource.com` | https://www.findbestopensource.com/product/robertoaloi-erlang-web | https://github.com/robertoaloi/erlang-web |  |
 | `githubhelp.com` | https://githubhelp.com/github/dmca | https://github.com/github/dmca |  |
+| `golangrepo.com` | https://golangrepo.com/repo/uber-go-zap-go-logging-monitoring | https://github.com/uber-go/zap |  |
