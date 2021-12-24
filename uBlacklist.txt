@@ -9,3 +9,4 @@
 *://awesomeopensource.com/*
 *://findbestopensource.com/*
 *://githubhelp.com/*
+*://golangrepo.com/*
