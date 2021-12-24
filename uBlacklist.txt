@@ -10,3 +10,4 @@
 *://findbestopensource.com/*
 *://githubhelp.com/*
 *://golangrepo.com/*
+*://gitmemory.cn/*
