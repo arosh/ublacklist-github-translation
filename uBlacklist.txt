@@ -11,3 +11,4 @@
 *://githubhelp.com/*
 *://golangrepo.com/*
 *://gitmemory.cn/*
+*://pythonissues.com/*
