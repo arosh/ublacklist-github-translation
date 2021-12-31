@@ -12,3 +12,4 @@
 *://golangrepo.com/*
 *://gitmemory.cn/*
 *://pythonissues.com/*
+*://reposhub.com/*

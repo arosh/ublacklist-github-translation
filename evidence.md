@@ -16,3 +16,4 @@
 | `golangrepo.com` | https://golangrepo.com/repo/uber-go-zap-go-logging-monitoring | https://github.com/uber-go/zap |  |
 | `gitmemory.cn` | https://gitmemory.cn/repo/facebook/react | https://github.com/facebook/react |  |
 | `pythonissues.com` | https://pythonissues.com/issues/2256430 | https://github.com/pupil-labs/pupil/issues/920 |  |
+| `reposhub.com` | https://reposhub.com/ruby/database-tools/soundcloud-lhm.html | https://github.com/soundcloud/lhm |  |
