@@ -53,3 +53,6 @@
 - domain: 'pythonissues.com'
   evidence: https://pythonissues.com/issues/2256430
   original: https://github.com/pupil-labs/pupil/issues/920
+- domain: 'reposhub.com'
+  evidence: https://reposhub.com/ruby/database-tools/soundcloud-lhm.html
+  original: https://github.com/soundcloud/lhm
