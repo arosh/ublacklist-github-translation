@@ -56,3 +56,11 @@
 - domain: 'reposhub.com'
   evidence: https://reposhub.com/ruby/database-tools/soundcloud-lhm.html
   original: https://github.com/soundcloud/lhm
+- domain: 'gitanswer.com'
+  evidence: https://gitanswer.com/pyo3-question-about-pymethods-cannot-be-used-with-lifetime-parameters-or-generics-rust-674792372
+  original: https://github.com/PyO3/pyo3/issues/1088
+  note:
+- domain: 'githubplus.com'
+  evidence: https://githubplus.com/docker-library/php
+  original: https://github.com/docker-library/php
+  note:
