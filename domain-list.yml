@@ -64,3 +64,6 @@
   evidence: https://githubplus.com/docker-library/php
   original: https://github.com/docker-library/php
   note:
+- domain: 'pythonrepo.com'
+  evidence: https://pythonrepo.com/repo/tensorflow-tensorflow--python-deep-learning
+  original: https://github.com/tensorflow/tensorflow
