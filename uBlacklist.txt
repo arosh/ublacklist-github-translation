@@ -13,3 +13,5 @@
 *://gitmemory.cn/*
 *://pythonissues.com/*
 *://reposhub.com/*
+*://gitanswer.com/*
+*://githubplus.com/*

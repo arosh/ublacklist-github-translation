@@ -17,3 +17,5 @@
 | `gitmemory.cn` | https://gitmemory.cn/repo/facebook/react | https://github.com/facebook/react |  |
 | `pythonissues.com` | https://pythonissues.com/issues/2256430 | https://github.com/pupil-labs/pupil/issues/920 |  |
 | `reposhub.com` | https://reposhub.com/ruby/database-tools/soundcloud-lhm.html | https://github.com/soundcloud/lhm |  |
+| `gitanswer.com` | https://gitanswer.com/pyo3-question-about-pymethods-cannot-be-used-with-lifetime-parameters-or-generics-rust-674792372 | https://github.com/PyO3/pyo3/issues/1088 |  |
+| `githubplus.com` | https://githubplus.com/docker-library/php | https://github.com/docker-library/php |  |
