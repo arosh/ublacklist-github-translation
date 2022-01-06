@@ -67,3 +67,6 @@
 - domain: 'pythonrepo.com'
   evidence: https://pythonrepo.com/repo/tensorflow-tensorflow--python-deep-learning
   original: https://github.com/tensorflow/tensorflow
+- domain: 'bestofcpp.com'
+  evidence: https://bestofcpp.com/repo/GaryOderNichts-Bloopair-cpp-network
+  original: https://github.com/GaryOderNichts/Bloopair

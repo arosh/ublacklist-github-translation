@@ -16,3 +16,4 @@
 *://gitanswer.com/*
 *://githubplus.com/*
 *://pythonrepo.com/*
+*://bestofcpp.com/*

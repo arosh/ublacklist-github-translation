@@ -20,3 +20,4 @@
 | `gitanswer.com` | https://gitanswer.com/pyo3-question-about-pymethods-cannot-be-used-with-lifetime-parameters-or-generics-rust-674792372 | https://github.com/PyO3/pyo3/issues/1088 |  |
 | `githubplus.com` | https://githubplus.com/docker-library/php | https://github.com/docker-library/php |  |
 | `pythonrepo.com` | https://pythonrepo.com/repo/tensorflow-tensorflow--python-deep-learning | https://github.com/tensorflow/tensorflow |  |
+| `bestofcpp.com` | https://bestofcpp.com/repo/GaryOderNichts-Bloopair-cpp-network | https://github.com/GaryOderNichts/Bloopair |  |
