@@ -6,7 +6,7 @@
   evidence: https://githubja.com/tqdm/tqdm
   original: https://github.com/tqdm/tqdm
   note:
-- domain: '*.gitmemory.com'
+- domain: 'www.gitmemory.com'
   evidence: https://www.gitmemory.com/issue/dbeaver/dbeaver/232/528912919
   original: https://github.com/dbeaver/dbeaver/issues/232
   note:
@@ -18,7 +18,7 @@
   evidence: https://githubmemory.com/repo/arosh/ublacklist-stackoverflow-translation/issues/51
   original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51
   note:
-- domain: '*.wenyanet.com'
+- domain: 'www.wenyanet.com'
   evidence: https://www.wenyanet.com/opensource/ja/5ff3071877c41a72a418b148.html
   original: https://github.com/BBE78/cypress-sonarqube-reporter
   note:
@@ -34,7 +34,7 @@
   evidence: https://awesomeopensource.com/project/jgm/pandoc
   original: https://github.com/pandoc/pandoc
   note:
-- domain: 'findbestopensource.com'
+- domain: 'www.findbestopensource.com'
   evidence: https://www.findbestopensource.com/product/robertoaloi-erlang-web
   original: https://github.com/robertoaloi/erlang-web
   note:
@@ -70,7 +70,7 @@
 - domain: 'bestofcpp.com'
   evidence: https://bestofcpp.com/repo/GaryOderNichts-Bloopair-cpp-network
   original: https://github.com/GaryOderNichts/Bloopair
-- domain: '*.innominds.com'
+- domain: 'github.innominds.com'
   evidence: https://github.innominds.com/arosh/ublacklist-github-translation
   original: https://github.com/arosh/ublacklist-github-translation
   note:
