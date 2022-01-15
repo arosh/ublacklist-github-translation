@@ -70,3 +70,7 @@
 - domain: 'bestofcpp.com'
   evidence: https://bestofcpp.com/repo/GaryOderNichts-Bloopair-cpp-network
   original: https://github.com/GaryOderNichts/Bloopair
+- domain: '*.innominds.com'
+  evidence: https://github.innominds.com/arosh/ublacklist-github-translation
+  original: https://github.com/arosh/ublacklist-github-translation
+  note:
