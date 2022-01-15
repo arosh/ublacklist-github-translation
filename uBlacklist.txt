@@ -1,13 +1,13 @@
 *://bleepcoder.com/*
 *://githubja.com/*
-*://*.gitmemory.com/*
+*://www.gitmemory.com/*
 *://giters.com/*
 *://githubmemory.com/*
-*://*.wenyanet.com/*
+*://www.wenyanet.com/*
 *://issueexplorer.com/*
 *://opensourcelibs.com/*
 *://awesomeopensource.com/*
-*://findbestopensource.com/*
+*://www.findbestopensource.com/*
 *://githubhelp.com/*
 *://golangrepo.com/*
 *://gitmemory.cn/*
@@ -17,3 +17,4 @@
 *://githubplus.com/*
 *://pythonrepo.com/*
 *://bestofcpp.com/*
+*://github.innominds.com/*
