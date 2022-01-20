@@ -22,3 +22,4 @@
 | `pythonrepo.com` | https://pythonrepo.com/repo/tensorflow-tensorflow--python-deep-learning | https://github.com/tensorflow/tensorflow |  |
 | `bestofcpp.com` | https://bestofcpp.com/repo/GaryOderNichts-Bloopair-cpp-network | https://github.com/GaryOderNichts/Bloopair |  |
 | `github.innominds.com` | https://github.innominds.com/arosh/ublacklist-github-translation | https://github.com/arosh/ublacklist-github-translation |  |
+| `www.higithub.com` | https://www.higithub.com/abrt/issue/retrace-server/433 | https://github.com/abrt/retrace-server/pull/433 |  |

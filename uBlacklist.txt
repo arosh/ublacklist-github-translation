@@ -18,3 +18,4 @@
 *://pythonrepo.com/*
 *://bestofcpp.com/*
 *://github.innominds.com/*
+*://www.higithub.com/*
