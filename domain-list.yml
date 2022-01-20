@@ -74,6 +74,6 @@
   evidence: https://github.innominds.com/arosh/ublacklist-github-translation
   original: https://github.com/arosh/ublacklist-github-translation
   note:
-- domain: 'higithub.com'
+- domain: 'www.higithub.com'
   evidence: https://www.higithub.com/abrt/issue/retrace-server/433
   original: https://github.com/abrt/retrace-server/pull/433
