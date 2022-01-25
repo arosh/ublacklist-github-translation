@@ -1,7 +1,7 @@
 *://bleepcoder.com/*
 *://githubja.com/*
 *://www.gitmemory.com/*
-*://giters.com/*
+*://*.giters.com/*
 *://githubmemory.com/*
 *://www.wenyanet.com/*
 *://issueexplorer.com/*
