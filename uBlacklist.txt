@@ -14,6 +14,7 @@
 *://gitmemory.cn/*
 *://pythonissues.com/*
 *://reposhub.com/*
+*://openprojectrepo.com/*
 *://gitanswer.com/*
 *://githubplus.com/*
 *://pythonrepo.com/*
