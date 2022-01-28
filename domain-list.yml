@@ -59,6 +59,9 @@
 - domain: 'reposhub.com'
   evidence: https://reposhub.com/ruby/database-tools/soundcloud-lhm.html
   original: https://github.com/soundcloud/lhm
+- domain: 'openprojectrepo.com'
+  evidence: https://openprojectrepo.com/project/kubernetes-kubernetes-go-miscellaneous
+  original: https://github.com/kubernetes/kubernetes
 - domain: 'gitanswer.com'
   evidence: https://gitanswer.com/pyo3-question-about-pymethods-cannot-be-used-with-lifetime-parameters-or-generics-rust-674792372
   original: https://github.com/PyO3/pyo3/issues/1088
