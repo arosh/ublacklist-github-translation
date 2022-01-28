@@ -10,8 +10,11 @@
   evidence: https://www.gitmemory.com/issue/dbeaver/dbeaver/232/528912919
   original: https://github.com/dbeaver/dbeaver/issues/232
   note:
-- domain: '*.giters.com'
+- domain: 'giters.com'
   evidence: https://giters.com/arosh/ublacklist-stackoverflow-translation/issues/51
+  original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51
+- domain: 'www.giters.com'
+  evidence: https://www.giters.com/arosh/ublacklist-stackoverflow-translation/issues/51
   original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51
   note: www.giters.com also serves copycat.
 - domain: 'githubmemory.com'
