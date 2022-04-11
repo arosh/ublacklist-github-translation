@@ -83,6 +83,6 @@
 - domain: 'www.higithub.com'
   evidence: https://www.higithub.com/abrt/issue/retrace-server/433
   original: https://github.com/abrt/retrace-server/pull/433
-- domain 'gitcode.net'
+- domain: 'gitcode.net'
   evidence: https://gitcode.net/mirrors/microsoft/terminal
   original: https://github.com/microsoft/terminal
