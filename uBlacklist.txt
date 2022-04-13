@@ -21,3 +21,4 @@
 *://bestofcpp.com/*
 *://github.innominds.com/*
 *://www.higithub.com/*
+*://githublab.com/*
