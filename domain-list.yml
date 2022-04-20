@@ -86,3 +86,6 @@
 - domain: 'githublab.com'
   evidence: https://githublab.com/repository/rgl/windows-vagrant
   original: https://github.com/rgl/windows-vagrant
+- domain: 'githubhot.com'
+  evidence: https://githubhot.com/repo/mm1ke/gentoo-scripts/issues/1
+  original: https://github.com/mm1ke/gentoo-scripts/issues/1
