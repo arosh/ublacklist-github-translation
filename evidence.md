@@ -27,3 +27,4 @@
 | `www.higithub.com` | https://www.higithub.com/abrt/issue/retrace-server/433 | https://github.com/abrt/retrace-server/pull/433 |  |
 | `githublab.com` | https://githublab.com/repository/rgl/windows-vagrant | https://github.com/rgl/windows-vagrant |  |
 | `githubhot.com` | https://githubhot.com/repo/mm1ke/gentoo-scripts/issues/1 | https://github.com/mm1ke/gentoo-scripts/issues/1 |  |
+| `issuehunt.io` | https://issuehunt.io/r/octabytes/FireO/issues/75 | https://github.com/octabytes/FireO/issues/75 |  |

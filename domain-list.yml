@@ -89,3 +89,6 @@
 - domain: 'githubhot.com'
   evidence: https://githubhot.com/repo/mm1ke/gentoo-scripts/issues/1
   original: https://github.com/mm1ke/gentoo-scripts/issues/1
+- domain: 'issuehunt.io'
+  evidence: https://issuehunt.io/r/octabytes/FireO/issues/75
+  original: https://github.com/octabytes/FireO/issues/75
