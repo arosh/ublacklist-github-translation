@@ -4,6 +4,7 @@
 *://giters.com/*
 *://www.giters.com/*
 *://githubmemory.com/*
+*://githubmate.com/*
 *://www.wenyanet.com/*
 *://issueexplorer.com/*
 *://opensourcelibs.com/*
