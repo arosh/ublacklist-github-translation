@@ -21,6 +21,10 @@
   evidence: https://githubmemory.com/repo/arosh/ublacklist-stackoverflow-translation/issues/51
   original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51
   note:
+- domain: 'githubmate.com'
+  evidence: https://githubmate.com/repo/arosh/ublacklist-stackoverflow-translation/issues/51
+  original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51
+  note: alias of githubmemory.com
 - domain: 'www.wenyanet.com'
   evidence: https://www.wenyanet.com/opensource/ja/5ff3071877c41a72a418b148.html
   original: https://github.com/BBE78/cypress-sonarqube-reporter
