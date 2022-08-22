@@ -1,3 +1,7 @@
+- domain: 'curatedgo.com'
+  evidence: https://curatedgo.com/r/golang-bindings-for-asticodego-asticoqui/index.html
+  original: https://github.com/asticode/go-asticoqui
+  note:
 - domain: 'bleepcoder.com'
   evidence: https://bleepcoder.com/ja/metabase/419604485/time-is-showing-24-00-instead-of-00-00
   original: https://github.com/metabase/metabase/issues/9538
