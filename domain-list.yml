@@ -93,3 +93,6 @@
 - domain: 'githubhot.com'
   evidence: https://githubhot.com/repo/mm1ke/gentoo-scripts/issues/1
   original: https://github.com/mm1ke/gentoo-scripts/issues/1
+- domain: 'issuehint.com'
+  evidence: https://issuehint.com/issue/corretto/corretto-11/118
+  original: https://github.com/corretto/corretto-11/issues/118
