@@ -24,3 +24,4 @@
 *://www.higithub.com/*
 *://githublab.com/*
 *://githubhot.com/*
+*://issuehint.com/*
