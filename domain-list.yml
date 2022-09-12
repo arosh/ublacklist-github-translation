@@ -99,3 +99,6 @@
 - domain: 'rustrepo.com'
   evidence: https://rustrepo.com/repo/hyperium-hyper-rust-http-client
   original: https://github.com/hyperium/hyper
+- domain: 'bestrustcrates.com'
+  evidence: https://bestrustcrates.com/p/once-installed-the-dtolnaycargo-expand/
+  original: https://github.com/dtolnay/cargo-expand
