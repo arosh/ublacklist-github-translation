@@ -25,4 +25,5 @@
 *://githublab.com/*
 *://githubhot.com/*
 *://issuehint.com/*
+*://rustrepo.com/*
 *://bestrustcrates.com/*
