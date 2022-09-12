@@ -28,6 +28,7 @@
 | `www.higithub.com` | https://www.higithub.com/abrt/issue/retrace-server/433 | https://github.com/abrt/retrace-server/pull/433 |  |
 | `githublab.com` | https://githublab.com/repository/rgl/windows-vagrant | https://github.com/rgl/windows-vagrant |  |
 | `githubhot.com` | https://githubhot.com/repo/mm1ke/gentoo-scripts/issues/1 | https://github.com/mm1ke/gentoo-scripts/issues/1 |  |
+| `issueantenna.com` | https://issueantenna.com/repo/huggingface/tokenizers | https://github.com/huggingface/tokenizers |  |
 | `gitanswer.net` | https://gitanswer.net/method-eq-and-ne-overrides-class-object-in-an-incompatible-manner-regression-between-1-1-160-and-1-1-161-993201807 | https://github.com/microsoft/pyright/issues/2287 |  |
 | `issuehint.com` | https://issuehint.com/issue/corretto/corretto-11/118 | https://github.com/corretto/corretto-11/issues/118 |  |
 | `curatedgo.com` | https://curatedgo.com/r/golang-bindings-for-asticodego-asticoqui/index.html | https://github.com/asticode/go-asticoqui |  |
