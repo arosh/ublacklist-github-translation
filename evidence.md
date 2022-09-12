@@ -27,11 +27,11 @@
 | `github.innominds.com` | https://github.innominds.com/arosh/ublacklist-github-translation | https://github.com/arosh/ublacklist-github-translation |  |
 | `www.higithub.com` | https://www.higithub.com/abrt/issue/retrace-server/433 | https://github.com/abrt/retrace-server/pull/433 |  |
 | `kandi.openweaver.com` | https://kandi.openweaver.com/typescript/HelloRusk/qiita-trend-api | https://github.com/HelloRusk/qiita-trend-api | The site distributes copies of Stack Overflow QAs under the heading "Community Discussions." |
-| `githublab.com` | https://githublab.com/repository/rgl/windows-vagrant | https://github.com/rgl/windows-vagrant |  |
+| `githublab.com` | https://githublab.com/repository/arosh/ublacklist-stackoverflow-translation | https://github.com/arosh/ublacklist-stackoverflow-translation |  |
 | `githubhot.com` | https://githubhot.com/repo/mm1ke/gentoo-scripts/issues/1 | https://github.com/mm1ke/gentoo-scripts/issues/1 |  |
-| `issueantenna.com` | https://issueantenna.com/repo/huggingface/tokenizers | https://github.com/huggingface/tokenizers |  |
+| `issueantenna.com` | https://issueantenna.com/repo/arosh/ublacklist-stackoverflow-translation/issues | https://github.com/arosh/ublacklist-stackoverflow-translation/issues |  |
 | `gitanswer.net` | https://gitanswer.net/method-eq-and-ne-overrides-class-object-in-an-incompatible-manner-regression-between-1-1-160-and-1-1-161-993201807 | https://github.com/microsoft/pyright/issues/2287 |  |
-| `issuehint.com` | https://issuehint.com/issue/corretto/corretto-11/118 | https://github.com/corretto/corretto-11/issues/118 |  |
+| `issuehint.com` | https://issuehint.com/issue/arosh/ublacklist-stackoverflow-translation/51 | https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51 |  |
 | `curatedgo.com` | https://curatedgo.com/r/golang-bindings-for-asticodego-asticoqui/index.html | https://github.com/asticode/go-asticoqui |  |
 | `rustrepo.com` | https://rustrepo.com/repo/hyperium-hyper-rust-http-client | https://github.com/hyperium/hyper |  |
 | `bestrustcrates.com` | https://bestrustcrates.com/p/once-installed-the-dtolnaycargo-expand/ | https://github.com/dtolnay/cargo-expand |  |
