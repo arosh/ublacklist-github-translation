@@ -28,3 +28,6 @@
 | `www.higithub.com` | https://www.higithub.com/abrt/issue/retrace-server/433 | https://github.com/abrt/retrace-server/pull/433 |  |
 | `githublab.com` | https://githublab.com/repository/rgl/windows-vagrant | https://github.com/rgl/windows-vagrant |  |
 | `githubhot.com` | https://githubhot.com/repo/mm1ke/gentoo-scripts/issues/1 | https://github.com/mm1ke/gentoo-scripts/issues/1 |  |
+| `issuehint.com` | https://issuehint.com/issue/corretto/corretto-11/118 | https://github.com/corretto/corretto-11/issues/118 |  |
+| `rustrepo.com` | https://rustrepo.com/repo/hyperium-hyper-rust-http-client | https://github.com/hyperium/hyper |  |
+| `bestrustcrates.com` | https://bestrustcrates.com/p/once-installed-the-dtolnaycargo-expand/ | https://github.com/dtolnay/cargo-expand |  |
