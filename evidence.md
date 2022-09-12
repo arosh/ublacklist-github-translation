@@ -14,7 +14,7 @@
 | `opensourcelibs.com` | https://opensourcelibs.com/lib/pandoc | https://github.com/pandoc/pandoc |  |
 | `awesomeopensource.com` | https://awesomeopensource.com/project/jgm/pandoc | https://github.com/pandoc/pandoc |  |
 | `www.findbestopensource.com` | https://www.findbestopensource.com/product/robertoaloi-erlang-web | https://github.com/robertoaloi/erlang-web |  |
-| `githubhelp.com` | https://githubhelp.com/github/dmca | https://github.com/github/dmca |  |
+| `githubhelp.com` | https://githubhelp.com/arosh/ublacklist-stackoverflow-translation | https://github.com/arosh/ublacklist-stackoverflow-translation |  |
 | `golangrepo.com` | https://golangrepo.com/repo/uber-go-zap-go-logging-monitoring | https://github.com/uber-go/zap |  |
 | `gitmemory.cn` | https://gitmemory.cn/repo/facebook/react | https://github.com/facebook/react |  |
 | `pythonissues.com` | https://pythonissues.com/issues/2256430 | https://github.com/pupil-labs/pupil/issues/920 |  |
