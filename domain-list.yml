@@ -87,6 +87,10 @@
 - domain: 'www.higithub.com'
   evidence: https://www.higithub.com/abrt/issue/retrace-server/433
   original: https://github.com/abrt/retrace-server/pull/433
+- domain: 'kandi.openweaver.com'
+  evidence: https://kandi.openweaver.com/typescript/HelloRusk/qiita-trend-api
+  original: https://github.com/HelloRusk/qiita-trend-api
+  note: The site distributes copies of Stack Overflow QAs under the heading "Community Discussions."
 - domain: 'githublab.com'
   evidence: https://githublab.com/repository/rgl/windows-vagrant
   original: https://github.com/rgl/windows-vagrant
