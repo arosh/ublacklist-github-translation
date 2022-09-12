@@ -92,20 +92,20 @@
   original: https://github.com/HelloRusk/qiita-trend-api
   note: The site distributes copies of Stack Overflow QAs under the heading "Community Discussions."
 - domain: 'githublab.com'
-  evidence: https://githublab.com/repository/rgl/windows-vagrant
-  original: https://github.com/rgl/windows-vagrant
+  evidence: https://githublab.com/repository/arosh/ublacklist-stackoverflow-translation
+  original: https://github.com/arosh/ublacklist-stackoverflow-translation
 - domain: 'githubhot.com'
   evidence: https://githubhot.com/repo/mm1ke/gentoo-scripts/issues/1
   original: https://github.com/mm1ke/gentoo-scripts/issues/1
 - domain: 'issueantenna.com'
-  evidence: https://issueantenna.com/repo/huggingface/tokenizers
-  original: https://github.com/huggingface/tokenizers
+  evidence: https://issueantenna.com/repo/arosh/ublacklist-stackoverflow-translation/issues
+  original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues
 - domain: 'gitanswer.net'
   evidence: https://gitanswer.net/method-eq-and-ne-overrides-class-object-in-an-incompatible-manner-regression-between-1-1-160-and-1-1-161-993201807
   original: https://github.com/microsoft/pyright/issues/2287
 - domain: 'issuehint.com'
-  evidence: https://issuehint.com/issue/corretto/corretto-11/118
-  original: https://github.com/corretto/corretto-11/issues/118
+  evidence: https://issuehint.com/issue/arosh/ublacklist-stackoverflow-translation/51
+  original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51
 - domain: 'curatedgo.com'
   evidence: https://curatedgo.com/r/golang-bindings-for-asticodego-asticoqui/index.html
   original: https://github.com/asticode/go-asticoqui
