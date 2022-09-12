@@ -8,6 +8,7 @@
 | `giters.com` | https://giters.com/arosh/ublacklist-stackoverflow-translation/issues/51 | https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51 |  |
 | `www.giters.com` | https://www.giters.com/arosh/ublacklist-stackoverflow-translation/issues/51 | https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51 | www.giters.com also serves copycat. |
 | `githubmemory.com` | https://githubmemory.com/repo/arosh/ublacklist-stackoverflow-translation/issues/51 | https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51 |  |
+| `githubmate.com` | https://githubmate.com/repo/arosh/ublacklist-stackoverflow-translation/issues/51 | https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51 | alias of githubmemory.com |
 | `www.wenyanet.com` | https://www.wenyanet.com/opensource/ja/5ff3071877c41a72a418b148.html | https://github.com/BBE78/cypress-sonarqube-reporter |  |
 | `issueexplorer.com` | https://issueexplorer.com/issue/microsoft/PowerToys/13202 | https://github.com/microsoft/PowerToys/issues/13202 |  |
 | `opensourcelibs.com` | https://opensourcelibs.com/lib/pandoc | https://github.com/pandoc/pandoc |  |
@@ -27,3 +28,8 @@
 | `www.higithub.com` | https://www.higithub.com/abrt/issue/retrace-server/433 | https://github.com/abrt/retrace-server/pull/433 |  |
 | `githublab.com` | https://githublab.com/repository/rgl/windows-vagrant | https://github.com/rgl/windows-vagrant |  |
 | `githubhot.com` | https://githubhot.com/repo/mm1ke/gentoo-scripts/issues/1 | https://github.com/mm1ke/gentoo-scripts/issues/1 |  |
+| `gitanswer.net` | https://gitanswer.net/method-eq-and-ne-overrides-class-object-in-an-incompatible-manner-regression-between-1-1-160-and-1-1-161-993201807 | https://github.com/microsoft/pyright/issues/2287 |  |
+| `issuehint.com` | https://issuehint.com/issue/corretto/corretto-11/118 | https://github.com/corretto/corretto-11/issues/118 |  |
+| `curatedgo.com` | https://curatedgo.com/r/golang-bindings-for-asticodego-asticoqui/index.html | https://github.com/asticode/go-asticoqui |  |
+| `rustrepo.com` | https://rustrepo.com/repo/hyperium-hyper-rust-http-client | https://github.com/hyperium/hyper |  |
+| `bestrustcrates.com` | https://bestrustcrates.com/p/once-installed-the-dtolnaycargo-expand/ | https://github.com/dtolnay/cargo-expand |  |

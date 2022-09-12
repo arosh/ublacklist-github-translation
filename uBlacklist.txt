@@ -4,6 +4,7 @@
 *://giters.com/*
 *://www.giters.com/*
 *://githubmemory.com/*
+*://githubmate.com/*
 *://www.wenyanet.com/*
 *://issueexplorer.com/*
 *://opensourcelibs.com/*
@@ -23,3 +24,8 @@
 *://www.higithub.com/*
 *://githublab.com/*
 *://githubhot.com/*
+*://gitanswer.net/*
+*://issuehint.com/*
+*://curatedgo.com/*
+*://rustrepo.com/*
+*://bestrustcrates.com/*
