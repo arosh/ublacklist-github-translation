@@ -24,6 +24,7 @@
 *://www.higithub.com/*
 *://githublab.com/*
 *://githubhot.com/*
+*://gitanswer.net/*
 *://issuehint.com/*
 *://curatedgo.com/*
 *://rustrepo.com/*
