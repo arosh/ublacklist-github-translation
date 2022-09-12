@@ -93,6 +93,9 @@
 - domain: 'githubhot.com'
   evidence: https://githubhot.com/repo/mm1ke/gentoo-scripts/issues/1
   original: https://github.com/mm1ke/gentoo-scripts/issues/1
+- domain: 'issueantenna.com'
+  evidence: https://issueantenna.com/repo/huggingface/tokenizers
+  original: https://github.com/huggingface/tokenizers
 - domain: 'gitanswer.net'
   evidence: https://gitanswer.net/method-eq-and-ne-overrides-class-object-in-an-incompatible-manner-regression-between-1-1-160-and-1-1-161-993201807
   original: https://github.com/microsoft/pyright/issues/2287
