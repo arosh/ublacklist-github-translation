@@ -29,9 +29,9 @@
   evidence: https://www.wenyanet.com/opensource/ja/5ff3071877c41a72a418b148.html
   original: https://github.com/BBE78/cypress-sonarqube-reporter
   note:
-- domain: 'issueexplorer.com'
-  evidence: https://issueexplorer.com/issue/microsoft/PowerToys/13202
-  original: https://github.com/microsoft/PowerToys/issues/13202
+- domain: 'codesti.com'
+  evidence: https://codesti.com/issue/arosh/ublacklist-stackoverflow-translation/51
+  original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51
   note:
 - domain: 'opensourcelibs.com'
   evidence: https://opensourcelibs.com/lib/pandoc
