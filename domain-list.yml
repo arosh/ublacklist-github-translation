@@ -21,6 +21,10 @@
   evidence: https://githubmemory.com/repo/arosh/ublacklist-stackoverflow-translation/issues/51
   original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51
   note:
+- domain: 'githubmate.com'
+  evidence: https://githubmate.com/repo/arosh/ublacklist-stackoverflow-translation/issues/51
+  original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51
+  note: alias of githubmemory.com
 - domain: 'www.wenyanet.com'
   evidence: https://www.wenyanet.com/opensource/ja/5ff3071877c41a72a418b148.html
   original: https://github.com/BBE78/cypress-sonarqube-reporter
@@ -87,3 +91,28 @@
   evidence: https://kandi.openweaver.com/typescript/HelloRusk/qiita-trend-api
   original: https://github.com/HelloRusk/qiita-trend-api
   note: The site distributes copies of Stack Overflow QAs under the heading "Community Discussions."
+- domain: 'githublab.com'
+  evidence: https://githublab.com/repository/rgl/windows-vagrant
+  original: https://github.com/rgl/windows-vagrant
+- domain: 'githubhot.com'
+  evidence: https://githubhot.com/repo/mm1ke/gentoo-scripts/issues/1
+  original: https://github.com/mm1ke/gentoo-scripts/issues/1
+- domain: 'issueantenna.com'
+  evidence: https://issueantenna.com/repo/huggingface/tokenizers
+  original: https://github.com/huggingface/tokenizers
+- domain: 'gitanswer.net'
+  evidence: https://gitanswer.net/method-eq-and-ne-overrides-class-object-in-an-incompatible-manner-regression-between-1-1-160-and-1-1-161-993201807
+  original: https://github.com/microsoft/pyright/issues/2287
+- domain: 'issuehint.com'
+  evidence: https://issuehint.com/issue/corretto/corretto-11/118
+  original: https://github.com/corretto/corretto-11/issues/118
+- domain: 'curatedgo.com'
+  evidence: https://curatedgo.com/r/golang-bindings-for-asticodego-asticoqui/index.html
+  original: https://github.com/asticode/go-asticoqui
+  note:
+- domain: 'rustrepo.com'
+  evidence: https://rustrepo.com/repo/hyperium-hyper-rust-http-client
+  original: https://github.com/hyperium/hyper
+- domain: 'bestrustcrates.com'
+  evidence: https://bestrustcrates.com/p/once-installed-the-dtolnaycargo-expand/
+  original: https://github.com/dtolnay/cargo-expand
