@@ -96,3 +96,6 @@
 - domain: 'issuehint.com'
   evidence: https://issuehint.com/issue/corretto/corretto-11/118
   original: https://github.com/corretto/corretto-11/issues/118
+- domain: 'rustrepo.com'
+  evidence: https://rustrepo.com/repo/hyperium-hyper-rust-http-client
+  original: https://github.com/hyperium/hyper
