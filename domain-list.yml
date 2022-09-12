@@ -96,3 +96,16 @@
 - domain: 'gitanswer.net'
   evidence: https://gitanswer.net/method-eq-and-ne-overrides-class-object-in-an-incompatible-manner-regression-between-1-1-160-and-1-1-161-993201807
   original: https://github.com/microsoft/pyright/issues/2287
+- domain: 'issuehint.com'
+  evidence: https://issuehint.com/issue/corretto/corretto-11/118
+  original: https://github.com/corretto/corretto-11/issues/118
+- domain: 'curatedgo.com'
+  evidence: https://curatedgo.com/r/golang-bindings-for-asticodego-asticoqui/index.html
+  original: https://github.com/asticode/go-asticoqui
+  note:
+- domain: 'rustrepo.com'
+  evidence: https://rustrepo.com/repo/hyperium-hyper-rust-http-client
+  original: https://github.com/hyperium/hyper
+- domain: 'bestrustcrates.com'
+  evidence: https://bestrustcrates.com/p/once-installed-the-dtolnaycargo-expand/
+  original: https://github.com/dtolnay/cargo-expand
