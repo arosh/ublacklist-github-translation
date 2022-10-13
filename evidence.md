@@ -35,3 +35,4 @@
 | `curatedgo.com` | https://curatedgo.com/r/golang-bindings-for-asticodego-asticoqui/index.html | https://github.com/asticode/go-asticoqui |  |
 | `rustrepo.com` | https://rustrepo.com/repo/hyperium-hyper-rust-http-client | https://github.com/hyperium/hyper |  |
 | `bestrustcrates.com` | https://bestrustcrates.com/p/once-installed-the-dtolnaycargo-expand/ | https://github.com/dtolnay/cargo-expand |  |
+| `githubrecord.com` | https://githubrecord.com/issue/home-assistant/core/66291/1059421055 | https://github.com/home-assistant/core/issues/66291 |  |
