@@ -1,3 +1,4 @@
+*://lightrun.com/*
 *://bleepcoder.com/*
 *://githubja.com/*
 *://www.gitmemory.com/*

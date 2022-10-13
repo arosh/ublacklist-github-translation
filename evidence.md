@@ -2,6 +2,7 @@
 
 | Domain | Page | Original | Note |
 | ------ | ---- | -------- | ---- |
+| `lightrun.com` | https://lightrun.com/answers/microsoft-typescript-pipeflowchain-type-support | https://github.com/microsoft/TypeScript/issues/30370 |  |
 | `bleepcoder.com` | https://bleepcoder.com/ja/metabase/419604485/time-is-showing-24-00-instead-of-00-00 | https://github.com/metabase/metabase/issues/9538 |  |
 | `githubja.com` | https://githubja.com/tqdm/tqdm | https://github.com/tqdm/tqdm |  |
 | `www.gitmemory.com` | https://www.gitmemory.com/issue/dbeaver/dbeaver/232/528912919 | https://github.com/dbeaver/dbeaver/issues/232 |  |
