@@ -31,4 +31,3 @@
 *://curatedgo.com/*
 *://rustrepo.com/*
 *://bestrustcrates.com/*
-*://githubrecord.com/*
