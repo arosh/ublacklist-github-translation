@@ -116,3 +116,6 @@
 - domain: 'bestrustcrates.com'
   evidence: https://bestrustcrates.com/p/once-installed-the-dtolnaycargo-expand/
   original: https://github.com/dtolnay/cargo-expand
+- domain: 'githubrecord.com'
+  evidence: https://githubrecord.com/issue/home-assistant/core/66291/1059421055
+  original: https://github.com/home-assistant/core/issues/66291
