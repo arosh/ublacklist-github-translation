@@ -1,0 +1,2 @@
+- [ ] I've read [the contribution policy](https://github.com/arosh/ublacklist-stackoverflow-translation/blob/master/CONTRIBUTING.md)
+- [ ] I've updated domain-list.yml with evidence that this site is a low-quality mirror
