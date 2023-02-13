@@ -1,18 +1,6 @@
 - domain: 'lightrun.com'
   evidence: https://lightrun.com/answers/microsoft-typescript-pipeflowchain-type-support
   original: https://github.com/microsoft/TypeScript/issues/30370
-- domain: 'bleepcoder.com'
-  evidence: https://bleepcoder.com/ja/metabase/419604485/time-is-showing-24-00-instead-of-00-00
-  original: https://github.com/metabase/metabase/issues/9538
-  note:
-- domain: 'githubja.com'
-  evidence: https://githubja.com/tqdm/tqdm
-  original: https://github.com/tqdm/tqdm
-  note:
-- domain: 'www.gitmemory.com'
-  evidence: https://www.gitmemory.com/issue/dbeaver/dbeaver/232/528912919
-  original: https://github.com/dbeaver/dbeaver/issues/232
-  note:
 - domain: 'giters.com'
   evidence: https://giters.com/arosh/ublacklist-stackoverflow-translation/issues/51
   original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51
@@ -24,10 +12,6 @@
   evidence: https://githubmemory.com/repo/arosh/ublacklist-stackoverflow-translation/issues/51
   original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51
   note:
-- domain: 'githubmate.com'
-  evidence: https://githubmate.com/repo/arosh/ublacklist-stackoverflow-translation/issues/51
-  original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51
-  note: alias of githubmemory.com
 - domain: 'www.wenyanet.com'
   evidence: https://www.wenyanet.com/opensource/ja/5ff3071877c41a72a418b148.html
   original: https://github.com/BBE78/cypress-sonarqube-reporter
@@ -35,10 +19,6 @@
 - domain: 'codesti.com'
   evidence: https://codesti.com/issue/arosh/ublacklist-stackoverflow-translation/51
   original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51
-  note:
-- domain: 'opensourcelibs.com'
-  evidence: https://opensourcelibs.com/lib/pandoc
-  original: https://github.com/pandoc/pandoc
   note:
 - domain: 'awesomeopensource.com'
   evidence: https://awesomeopensource.com/project/jgm/pandoc
@@ -52,23 +32,9 @@
   evidence: https://githubhelp.com/arosh/ublacklist-stackoverflow-translation
   original: https://github.com/arosh/ublacklist-stackoverflow-translation
   note:
-- domain: 'golangrepo.com'
-  evidence: https://golangrepo.com/repo/uber-go-zap-go-logging-monitoring
-  original: https://github.com/uber-go/zap
-  note:
-- domain: 'gitmemory.cn'
-  evidence: https://gitmemory.cn/repo/facebook/react
-  original: https://github.com/facebook/react
-  note:
-- domain: 'pythonissues.com'
-  evidence: https://pythonissues.com/issues/2256430
-  original: https://github.com/pupil-labs/pupil/issues/920
 - domain: 'reposhub.com'
   evidence: https://reposhub.com/ruby/database-tools/soundcloud-lhm.html
   original: https://github.com/soundcloud/lhm
-- domain: 'openprojectrepo.com'
-  evidence: https://openprojectrepo.com/project/kubernetes-kubernetes-go-miscellaneous
-  original: https://github.com/kubernetes/kubernetes
 - domain: 'gitanswer.com'
   evidence: https://gitanswer.com/pyo3-question-about-pymethods-cannot-be-used-with-lifetime-parameters-or-generics-rust-674792372
   original: https://github.com/PyO3/pyo3/issues/1088
@@ -83,10 +49,6 @@
 - domain: 'bestofcpp.com'
   evidence: https://bestofcpp.com/repo/GaryOderNichts-Bloopair-cpp-network
   original: https://github.com/GaryOderNichts/Bloopair
-- domain: 'github.innominds.com'
-  evidence: https://github.innominds.com/arosh/ublacklist-github-translation
-  original: https://github.com/arosh/ublacklist-github-translation
-  note:
 - domain: 'www.higithub.com'
   evidence: https://www.higithub.com/abrt/issue/retrace-server/433
   original: https://github.com/abrt/retrace-server/pull/433
@@ -97,9 +59,6 @@
 - domain: 'githublab.com'
   evidence: https://githublab.com/repository/arosh/ublacklist-stackoverflow-translation
   original: https://github.com/arosh/ublacklist-stackoverflow-translation
-- domain: 'githubhot.com'
-  evidence: https://githubhot.com/repo/mm1ke/gentoo-scripts/issues/1
-  original: https://github.com/mm1ke/gentoo-scripts/issues/1
 - domain: 'issueantenna.com'
   evidence: https://issueantenna.com/repo/arosh/ublacklist-stackoverflow-translation/issues
   original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues
@@ -109,16 +68,61 @@
 - domain: 'issuehint.com'
   evidence: https://issuehint.com/issue/arosh/ublacklist-stackoverflow-translation/51
   original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51
-- domain: 'curatedgo.com'
-  evidence: https://curatedgo.com/r/golang-bindings-for-asticodego-asticoqui/index.html
-  original: https://github.com/asticode/go-asticoqui
-  note:
 - domain: 'rustrepo.com'
   evidence: https://rustrepo.com/repo/hyperium-hyper-rust-http-client
   original: https://github.com/hyperium/hyper
-- domain: 'bestrustcrates.com'
-  evidence: https://bestrustcrates.com/p/once-installed-the-dtolnaycargo-expand/
-  original: https://github.com/dtolnay/cargo-expand
 - domain: 'githubrecord.com'
   evidence: https://githubrecord.com/issue/home-assistant/core/66291/1059421055
   original: https://github.com/home-assistant/core/issues/66291
+- domain: 'bleepcoder.com'
+  evidence: https://bleepcoder.com/ja/metabase/419604485/time-is-showing-24-00-instead-of-00-00
+  original: https://github.com/metabase/metabase/issues/9538
+  note: closed?
+- domain: 'githubja.com'
+  evidence: https://githubja.com/tqdm/tqdm
+  original: https://github.com/tqdm/tqdm
+  note: closed?
+- domain: 'www.gitmemory.com'
+  evidence: https://www.gitmemory.com/issue/dbeaver/dbeaver/232/528912919
+  original: https://github.com/dbeaver/dbeaver/issues/232
+  note: closed?
+- domain: 'githubmate.com'
+  evidence: https://githubmate.com/repo/arosh/ublacklist-stackoverflow-translation/issues/51
+  original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues/51
+  note: closed?
+- domain: 'opensourcelibs.com'
+  evidence: https://opensourcelibs.com/lib/pandoc
+  original: https://github.com/pandoc/pandoc
+  note: closed?
+- domain: 'golangrepo.com'
+  evidence: https://golangrepo.com/repo/uber-go-zap-go-logging-monitoring
+  original: https://github.com/uber-go/zap
+  note: closed?
+- domain: 'gitmemory.cn'
+  evidence: https://gitmemory.cn/repo/facebook/react
+  original: https://github.com/facebook/react
+  note: closed?
+- domain: 'pythonissues.com'
+  evidence: https://pythonissues.com/issues/2256430
+  original: https://github.com/pupil-labs/pupil/issues/920
+  note: closed?
+- domain: 'openprojectrepo.com'
+  evidence: https://openprojectrepo.com/project/kubernetes-kubernetes-go-miscellaneous
+  original: https://github.com/kubernetes/kubernetes
+  note: closed?
+- domain: 'github.innominds.com'
+  evidence: https://github.innominds.com/arosh/ublacklist-github-translation
+  original: https://github.com/arosh/ublacklist-github-translation
+  note: closed?
+- domain: 'githubhot.com'
+  evidence: https://githubhot.com/repo/mm1ke/gentoo-scripts/issues/1
+  original: https://github.com/mm1ke/gentoo-scripts/issues/1
+  note: closed?
+- domain: 'curatedgo.com'
+  evidence: https://curatedgo.com/r/golang-bindings-for-asticodego-asticoqui/index.html
+  original: https://github.com/asticode/go-asticoqui
+  note: closed?
+- domain: 'bestrustcrates.com'
+  evidence: https://bestrustcrates.com/p/once-installed-the-dtolnaycargo-expand/
+  original: https://github.com/dtolnay/cargo-expand
+  note: closed?
