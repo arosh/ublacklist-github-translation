@@ -8,13 +8,10 @@
 *://www.findbestopensource.com/*
 *://githubhelp.com/*
 *://reposhub.com/*
-*://gitanswer.com/*
 *://githubplus.com/*
 *://pythonrepo.com/*
 *://bestofcpp.com/*
-*://www.higithub.com/*
 *://kandi.openweaver.com/*
-*://githublab.com/*
 *://issueantenna.com/*
 *://gitanswer.net/*
 *://issuehint.com/*
@@ -33,3 +30,6 @@
 *://githubhot.com/*
 *://curatedgo.com/*
 *://bestrustcrates.com/*
+*://gitanswer.com/*
+*://www.higithub.com/*
+*://githublab.com/*
