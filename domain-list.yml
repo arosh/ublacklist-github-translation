@@ -35,10 +35,6 @@
 - domain: 'reposhub.com'
   evidence: https://reposhub.com/ruby/database-tools/soundcloud-lhm.html
   original: https://github.com/soundcloud/lhm
-- domain: 'gitanswer.com'
-  evidence: https://gitanswer.com/pyo3-question-about-pymethods-cannot-be-used-with-lifetime-parameters-or-generics-rust-674792372
-  original: https://github.com/PyO3/pyo3/issues/1088
-  note:
 - domain: 'githubplus.com'
   evidence: https://githubplus.com/docker-library/php
   original: https://github.com/docker-library/php
@@ -49,16 +45,10 @@
 - domain: 'bestofcpp.com'
   evidence: https://bestofcpp.com/repo/GaryOderNichts-Bloopair-cpp-network
   original: https://github.com/GaryOderNichts/Bloopair
-- domain: 'www.higithub.com'
-  evidence: https://www.higithub.com/abrt/issue/retrace-server/433
-  original: https://github.com/abrt/retrace-server/pull/433
 - domain: 'kandi.openweaver.com'
   evidence: https://kandi.openweaver.com/typescript/HelloRusk/qiita-trend-api
   original: https://github.com/HelloRusk/qiita-trend-api
   note: The site distributes copies of Stack Overflow QAs under the heading "Community Discussions."
-- domain: 'githublab.com'
-  evidence: https://githublab.com/repository/arosh/ublacklist-stackoverflow-translation
-  original: https://github.com/arosh/ublacklist-stackoverflow-translation
 - domain: 'issueantenna.com'
   evidence: https://issueantenna.com/repo/arosh/ublacklist-stackoverflow-translation/issues
   original: https://github.com/arosh/ublacklist-stackoverflow-translation/issues
@@ -125,4 +115,16 @@
 - domain: 'bestrustcrates.com'
   evidence: https://bestrustcrates.com/p/once-installed-the-dtolnaycargo-expand/
   original: https://github.com/dtolnay/cargo-expand
+  note: closed?
+- domain: 'gitanswer.com'
+  evidence: https://gitanswer.com/pyo3-question-about-pymethods-cannot-be-used-with-lifetime-parameters-or-generics-rust-674792372
+  original: https://github.com/PyO3/pyo3/issues/1088
+  note: closed?
+- domain: 'www.higithub.com'
+  evidence: https://www.higithub.com/abrt/issue/retrace-server/433
+  original: https://github.com/abrt/retrace-server/pull/433
+  note: closed?
+- domain: 'githublab.com'
+  evidence: https://githublab.com/repository/arosh/ublacklist-stackoverflow-translation
+  original: https://github.com/arosh/ublacklist-stackoverflow-translation
   note: closed?
